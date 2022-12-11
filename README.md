@@ -1,6 +1,6 @@
 # wallpaperNumbers
 
-This code was written using the Python programming language. Its purpose is to rename files on a directory based on their extensions.
+This code was written using the Python programming language. Its purpose is to rename files on a Linux directory based on their extensions.
 
 I've always wanted to rename my wallpapers assigning random numbers to each one of them within a certain range, as a way to keep everything organized.
 
